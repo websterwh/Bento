@@ -161,16 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Discord',
+					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Steam',
+					link: 'https://store.steampowered.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Divolt',
+					link: 'https://divolt.xyz/',
 				},
 				{
 					name: 'Slack',
